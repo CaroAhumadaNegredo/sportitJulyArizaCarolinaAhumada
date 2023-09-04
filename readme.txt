@@ -1,7 +1,7 @@
 hmtl:
 
-july: header hasta primera section
-caro: segunda section hasta footer
+july: header y main.
+caro: Desde main, hasta footer.
 
 
 fecha entrega: martes
